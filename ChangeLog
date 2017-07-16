@@ -1,3 +1,6 @@
+2017-07-15 17:03  jimbelton
+        * moved main.c and bm_numbers.c to programs directory, allowing the project to be built with baker 
+
 2005-08-08 18:34  fc_botelho
 
 	* INSTALL, examples/Makefile, examples/Makefile.in,
